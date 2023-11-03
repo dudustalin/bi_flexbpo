@@ -1,0 +1,24 @@
+body{
+    /*background-image: url("../img/fundo_detal.jpg");*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+:root {
+  --wd: 90%;
+  --ht: 90%;
+}
+
+
+.frame{
+background: transparent;
+margin-left: 5%;
+margin-top: 5px; 
+width: var(--wd); 
+height:var(--ht);
+
+
+}
+

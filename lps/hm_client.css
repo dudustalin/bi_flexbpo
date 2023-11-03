@@ -1,0 +1,160 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+    
+}
+
+
+.body_x{
+
+    background-image: url("./img/ptbicliente.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:#eceaea !important;
+    
+
+}
+
+.cxportalbi{
+    background-color: #FAB900;
+    width: 18%;
+    height: 3.2vw;
+    margin-top: 0%;
+    left: 15%;
+    position: relative;
+
+}
+
+.ptbitext{
+    color: black;
+    font-size:1.7vw;
+    font-family: Arial;
+    font-weight: bold;
+    position: absolute;
+    top: 13%;
+
+    left: 7%;  
+}
+
+
+.textimpacto{
+    color: white !important;
+    font-size: 2vw;
+    font-family: Arial;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 15%;  
+    line-height: 200%;
+
+}
+
+.cxbemvindo{
+border-top: 25px solid #FAB900;
+background-color:white !important;
+width: 25%;
+height: 4.5vw;
+margin-left: 15%;
+margin-top: 20%;
+position: relative;
+
+}
+
+.textbemvindo{
+    color: black;
+    font-size: 1.2vw;
+    font-weight: bold;
+    position: relative;
+    margin-top: 3%;
+    margin-left: 10%;
+    font-family: sans-serif;
+
+
+}
+
+
+.texprin{
+    color: rgb(56, 56, 56);
+    font-size: 2vw;
+    margin-top: 3%;
+    margin-left: 20%;
+    font-family: sans-serif;
+
+
+}
+
+
+.bxcenter{
+    background-color: #0B0627;
+    width: 70%;
+    height: 20.2vw;
+    margin-left: 15%;
+    margin-top: 5%;
+    background-image: url("./img/imgcenter.png");
+    background-repeat: no-repeat;
+    background-size:contain;
+}
+
+.bxcentertxt{
+    line-height: 130%;
+    color: white !important;
+    font-size: 1.5vw;
+    font-family: sans-serif;
+    padding-top: 5%;
+    padding-left: 45%;
+
+
+    
+}
+
+.texfin{
+    color: black;
+    font-size: 2vw;
+    margin-top: 3%;
+    margin-left: 0%;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+
+.rodape{
+    background-color: #0B0627;
+    margin-top: 5%;
+    width: 100%;
+    height: 10vw;
+    position: relative;
+}
+
+.lgrodape{
+    width: 10%;
+    top: 15%;
+    left: 45%;
+    position: absolute;
+}
+
+.fc{
+    width: 1.5%;
+    top: 45%;
+    left: 45%;
+    position: absolute;
+}
+
+.yt{
+    width: 1.5%;
+    top: 45%;
+    left: 47.5%;
+    position: absolute;
+}
+.inst{
+    width: 1.5%;
+    top: 45%;
+    left: 50%;
+    position: absolute;
+}
+
+.lkd{
+    width: 1.5%;
+    top: 45%;
+    left: 52.5%;
+    position: absolute;
+}
